@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Edelweiss69
+- 👋 Hi, I’m Edelweiss
 - 👀 I’m interested in coding, web design, networking
 - 🌱 I’m currently learning coding, web design, networking
 - 💞️ I’m looking to collaborate on all I.T fields
